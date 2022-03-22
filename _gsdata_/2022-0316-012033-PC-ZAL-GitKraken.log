@@ -1,0 +1,8 @@
+2022-03-16 01:20:34: -- Analysis Started by On File Change, After Delay
+2022-03-16 01:20:34: Слева: State File has changed, so re-read it: E:/GeekBrains/HomeWork/PythonBasics/_gsdata_/_file_state_v4._gs
+2022-03-16 01:20:34: Изменений: 1, Конфликтов: 0, Копий Времени: 0, Копий Состояния: 0, Ошибок: 0, All: 6
+2022-03-16 01:20:34: Left to Right: Copy File: 1 
+2022-03-16 01:20:34: == Sync Started by On File Change, After Delay
+2022-03-16 01:20:34: Start only 1 threads, limited by tasks to run
+2022-03-16 01:20:34: Скопировано поверх 'E:/GeekBrains/HomeWork/PythonBasics/Dz_3.py' -> 'E:/GitKraken/PythonBasics/Dz_3.py' (5,362)
+2022-03-16 01:20:34: ===== Синхронизация завершена. Время 00:00:01, Скорость: 0.00/s файлов/сек =====, Синхронизировано: 1, Ошибок: 0
