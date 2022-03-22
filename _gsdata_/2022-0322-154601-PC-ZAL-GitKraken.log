@@ -1,7 +1,0 @@
-2022-03-22 15:46:02: -- Analysis Started by On File Change First Full Analyze Upon Folder Connect
-2022-03-22 15:46:02: Изменений: 1, Конфликтов: 0, Копий Времени: 0, Копий Состояния: 1, Ошибок: 0, All: 6
-2022-03-22 15:46:02: Left to Right: Copy File: 1 
-2022-03-22 15:46:02: == Sync Started by On File Change First Full Analyze Upon Folder Connect
-2022-03-22 15:46:02: Start only 1 threads, limited by tasks to run
-2022-03-22 15:46:02: Скопировано поверх 'E:/GeekBrains/HomeWork/PythonBasics/Dz_3.py' -> 'E:/GitKraken/PythonBasics/Dz_3.py' (7,118)
-2022-03-22 15:46:02: ===== Синхронизация завершена. Время 00:00:00, Скорость: 0.00/s файлов/сек =====, Синхронизировано: 2, Ошибок: 0

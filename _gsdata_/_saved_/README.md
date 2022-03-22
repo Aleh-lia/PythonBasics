@@ -1,2 +1,0 @@
-PythonBasics
-Lesson 3
