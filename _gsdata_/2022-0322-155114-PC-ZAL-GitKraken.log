@@ -1,8 +1,0 @@
-2022-03-22 15:51:15: -- Analysis Started by On File Change, After Delay
-2022-03-22 15:51:15: /README.md: R:TimeSize<>; Внимание: Новый файл заменяется старым
-2022-03-22 15:51:15: Изменений: 1, Конфликтов: 0, Копий Времени: 0, Копий Состояния: 0, Ошибок: 0, All: 6
-2022-03-22 15:51:15: Left to Right: Copy File: 1 
-2022-03-22 15:51:15: == Sync Started by On File Change, After Delay
-2022-03-22 15:51:15: Start only 1 threads, limited by tasks to run
-2022-03-22 15:51:15: Скопировано поверх 'E:/GeekBrains/HomeWork/PythonBasics/README.md' -> 'E:/GitKraken/PythonBasics/README.md' (13)
-2022-03-22 15:51:15: ===== Синхронизация завершена. Время 00:00:01, Скорость: 0.00/s файлов/сек =====, Синхронизировано: 1, Ошибок: 0
