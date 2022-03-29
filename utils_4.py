@@ -15,10 +15,10 @@ def currency_rates(val, quantity = 1):
         return None
 
     rub = response[response.find('<Value>', response.find(val)) + 7:response.find('</Value>', response.find(val))]
-    day_raw = response[response.find('Date="') + 6:response.find('"', response.find('Date="') + 6)].split('.')
-    day, month, year = map(int, day_raw)
-
-    return f" {quantity} {val} = { Decimal(rub.replace(',', '.')) * quantity } RUB на {datetime(day=day, month=month, year=year)}"
+    date_crude = response[response.find('Date="') + 6:response.find('"', response.find('Date="') + 6)].split('.')
+    day, month, year = map(int, date_crude)
+    date = datetime(day=day, month=month, year=year)
+    return f" {quantity} {val} = {Decimal(rub.replace(',', '.')) * quantity} RUB на {datetime.strftime(date, '%d.%m.%Y')}"
 
 
 if __name__ == '__main__':
